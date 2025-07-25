@@ -194,7 +194,7 @@ Licensed under the **MIT License** – free for all uses.
 
 ## 👤 Credits
 
-Created and maintained by **\[Your Name]**
+Created and maintained by **\Krunal Wankhade , Parimal Kalpande **
 Feedback, issues, and collaboration are appreciated!
 
 ---
@@ -203,7 +203,7 @@ Feedback, issues, and collaboration are appreciated!
 
 * 📦 PyPI: [https://pypi.org/project/decisioncanvas/](https://pypi.org/project/decisioncanvas/)
 * 📁 Examples: See example notebooks in the `examples/` folder
-* 🐛 Issues: \[Link to your GitHub repo's issues tab]
+
 
 ---
 
