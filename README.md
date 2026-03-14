@@ -1,4 +1,4 @@
-# 🧠 decisioncanvas
+Decision Canvas
 
 **Effortless, high-quality visualization of classifier decision boundaries.**  
 An open-source Python library designed for quick, reliable, and interpretable visualizations of how classification models separate data.
